@@ -59,6 +59,16 @@ student_management_system/
 
 ---
 
+### ✏️ Update Student
+![Update Student](assets/update.png)
+
+---
+
+### 📄 View 2
+![View2](assets/view2.png)
+
+---
+
 ### ❌ Delete Student
 ![Delete Student](assets/delete.png)
 
@@ -67,8 +77,11 @@ student_management_system/
 ### 🚪 Exit
 ![Exit](assets/exit.png)
 
-🚀 How to Run
+## 🚀 How to Run
+
+```bash
 python run.py
+
 🧠 Learning Outcomes
 ✔ Python OOP design patterns
 ✔ File handling with JSON
