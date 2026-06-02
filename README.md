@@ -1,6 +1,3 @@
-# TEST IMAGE
-
-<img src="assets/home.png">
 # 📦 Student Management System (CLI Backend Project)
 
 A professional **Python-based CLI backend system** designed to demonstrate real-world backend fundamentals including CRUD operations, file handling, OOP principles, modular architecture, and exception handling.
