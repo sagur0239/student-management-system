@@ -40,25 +40,51 @@ student_management_system/
 ## 📸 Project Screenshots
 
 ### 🏠 Main Menu
-![](assets/home.png)
+<p align="center">
+  <img src="assets/home.png" width="700"/>
+</p>
+
+---
 
 ### ➕ Add Student
-![](assets/add.png)
+<p align="center">
+  <img src="assets/add.png" width="700"/>
+</p>
+
+---
 
 ### 📋 View Students
-![](assets/view.png)
+<p align="center">
+  <img src="assets/view.png" width="700"/>
+</p>
+
+---
 
 ### 🔍 Search Student
-![](assets/search.png)
+<p align="center">
+  <img src="assets/search.png" width="700"/>
+</p>
+
+---
 
 ### ✏️ Update Student
-![](assets/update.png)
+<p align="center">
+  <img src="assets/update.png" width="700"/>
+</p>
+
+---
 
 ### ❌ Delete Student
-![](assets/delete.png)
+<p align="center">
+  <img src="assets/delete.png" width="700"/>
+</p>
+
+---
 
 ### 🚪 Exit
-![](assets/exit.png)
+<p align="center">
+  <img src="assets/exit.png" width="700"/>
+</p>
 
 ## 🚀 How to Run
 
