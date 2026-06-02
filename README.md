@@ -38,9 +38,27 @@ student_management_system/
 └── README.md
 
 ## 📸 Project Screenshots
-## TEST IMAGE
 
-![test](assets/home.png)
+### 🏠 Main Menu
+<img src="./assets/home.png" width="700">
+
+### ➕ Add Student
+<img src="./assets/add.png" width="700">
+
+### 📋 View Students
+<img src="./assets/view.png" width="700">
+
+### 🔍 Search Student
+<img src="./assets/search.png" width="700">
+
+### ✏️ Update Student
+<img src="./assets/update.png" width="700">
+
+### ❌ Delete Student
+<img src="./assets/delete.png" width="700">
+
+### 🚪 Exit
+<img src="./assets/exit.png" width="700">
 
 ## 🚀 How to Run
 
