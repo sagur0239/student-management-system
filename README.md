@@ -37,38 +37,35 @@ student_management_system/
 ├── run.py           # Entry point
 └── README.md
 
-📸 Project Screenshots
+## 📸 Project Screenshots
 
-🏠 Main Menu
-![Main Menu] (assets/home.png)
+### 🏠 Main Menu
+![Main Menu](assets/home.png)
 
-------------------------
+---
 
-➕ Add Student
-![Add Student] (assets/add.png)
+### ➕ Add Student
+![Add Student](assets/add.png)
 
-------------------------
+---
 
-📋 View Students
-![View Students] (assets/view.png)
-------------------------
+### 📋 View Students
+![View Students](assets/view.png)
 
-🔍 Search Student
-![Search Students] (assets/search.png)
+---
 
-------------------------
+### 🔍 Search Student
+![Search Student](assets/search.png)
 
-❌ Delete Student
-![Delete Student] (assets/delete.png)
+---
 
-![Delete Student] (assets/view2.png)
+### ❌ Delete Student
+![Delete Student](assets/delete.png)
 
-------------------------
+---
 
-Exit
-![Exit] (assets/exit.png)
-
-------------------------
+### 🚪 Exit
+![Exit](assets/exit.png)
 
 🚀 How to Run
 python run.py
